@@ -1,4 +1,20 @@
-# Therapist Matching Platform  
+
+<h1 align="center">Therapist Matching Platform ⚡</h1>
+
+<p align="center">
+  <img src="/frontend/public/screenshot1.jpg" alt="Demo App" width="700"/>
+</p>
+
+<p align="center">
+  <img src="/frontend/public/screenshot2.jpg" alt="Demo App" width="700"/>
+</p>
+
+<p align="center">
+  <img src="/frontend/public/screenshot3.jpg" alt="Demo App" width="700"/>
+</p>
+<p align="center">
+  <img src="/frontend/public/screenshot4.jpg" alt="Demo App" width="700"/>
+</p>
 
 The **Therapist Matching Platform** is a web-based application designed to help users find and connect with therapists based on their specific needs. The platform allows users to view therapist profiles, leave reviews, mark favorites, and book appointments.  
 
