@@ -1,0 +1,244 @@
+/* Global Styles */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #0077cc;
+    font-family: 'Arial', sans-serif;
+}
+
+.theme-toggle {
+    text-align: right;
+    margin-bottom: 10px;
+}
+
+.theme-btn {
+    padding: 10px;
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.theme-btn:hover {
+    background-color: #005fa3;
+}
+
+.sorting {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.sort-btn {
+    padding: 10px 15px;
+    margin: 0 5px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.sort-btn.active {
+    background-color: #0077cc;
+    color: white;
+}
+
+.favorite-btn {
+    padding: 8px 12px;
+    background-color: #f0f0f0;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.favorite-btn.active {
+    background-color: #ffcc00;
+    color: white;
+}
+
+.favorite-btn:hover {
+    background-color: #ffb300;
+}
+
+.therapist-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+}
+
+.therapist-item:hover {
+    transform: scale(1.05);
+}
+
+.star {
+    font-size: 18px;
+    color: #ddd;
+}
+
+.star.filled {
+    color: #ffcc00;
+}
+
+.review-form {
+    margin-top: 20px;
+}
+
+.review-form input,
+.review-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+}
+
+.review-form button {
+    padding: 10px 20px;
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.review-form button:hover {
+    background-color: #005fa3;
+}
+
+.review-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.review-item {
+    margin-bottom: 10px;
+}
+
+
+/* Other Styles */
+
+
+/* Adjusting the Favorites Section */
+
+.favorites-section {
+    margin-top: 30px;
+}
+
+.favorites-section h3 {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #0077cc;
+    margin-bottom: 15px;
+}
+
+.favorite-item {
+    padding: 12px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.favorite-item .name {
+    font-weight: bold;
+    color: #333;
+    font-size: 1.1rem;
+}
+
+.favorite-item button {
+    background-color: #ff5c5c;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+.favorite-item button:hover {
+    background-color: #ff1f1f;
+}
+
+
+/* Dark Mode Styling for Favorites */
+
+.dark-mode .favorites-section h3 {
+    color: #ffa500;
+}
+
+.dark-mode .favorite-item {
+    background-color: #444;
+    border: 1px solid #555;
+}
+
+.dark-mode .favorite-item .name {
+    color: white;
+}
+
+.dark-mode .favorite-item button {
+    background-color: #ff5c5c;
+}
+
+.dark-mode .favorite-item button:hover {
+    background-color: #ff1f1f;
+}
+
+
+/* Dark Mode */
+
+.dark-mode {
+    background-color: #2e2e2e;
+    color: white;
+}
+
+.dark-mode .container {
+    background-color: #3a3a3a;
+}
+
+.dark-mode .theme-btn {
+    background-color: #444;
+}
+
+.dark-mode .sort-btn {
+    background-color: #444;
+}
+
+.dark-mode .therapist-item {
+    background-color: #444;
+}
+
+.dark-mode .favorite-btn {
+    background-color: #444;
+}
+
+.dark-mode .review-form button {
+    background-color: #444;
+}
+
+.dark-mode .star.filled {
+    color: #ffaa00;
+}

@@ -1,0 +1,61 @@
+therapist_id,name,specialization,location,available
+1,Dr. John Smith,Anxiety,New York,Yes
+2,Dr. Jane Doe,Depression,Los Angeles,Yes
+3,Dr. Emily Davis,PTSD,Chicago,No
+4,Dr. Michael Brown,Addiction,San Francisco,Yes
+5,Dr. Sarah Wilson,General Therapy,Boston,No
+6,Dr. David Clark,Anxiety,Seattle,Yes
+7,Dr. Lisa Lewis,Depression,Miami,Yes
+8,Dr. Robert Martinez,PTSD,Austin,No
+9,Dr. Laura White,Addiction,Denver,Yes
+10,Dr. William Harris,General Therapy,Las Vegas,Yes
+11,Dr. Andrew King,Anxiety,San Diego,Yes
+12,Dr. Margaret Lee,Depression,Portland,No
+13,Dr. Charles Kim,PTSD,Los Angeles,Yes
+14,Dr. Stephanie Scott,Addiction,Seattle,Yes
+15,Dr. Timothy Harris,General Therapy,New York,Yes
+16,Dr. Rachel Adams,Anxiety,Boston,No
+17,Dr. James Walker,Depression,Chicago,Yes
+18,Dr. Olivia Carter,PTSD,San Francisco,Yes
+19,Dr. Brian Evans,Addiction,Miami,No
+20,Dr. Jessica Brown,General Therapy,Los Angeles,Yes
+21,Dr. Kevin Clark,Anxiety,Dallas,Yes
+22,Dr. Susan Lee,Depression,Atlanta,No
+23,Dr. George Turner,PTSD,Denver,Yes
+24,Dr. Ashley Cooper,Addiction,Chicago,Yes
+25,Dr. Patricia Adams,General Therapy,San Diego,Yes
+26,Dr. Samuel Morgan,Anxiety,Las Vegas,Yes
+27,Dr. Sophia Young,Depression,New York,No
+28,Dr. Anthony Evans,PTSD,San Francisco,Yes
+29,Dr. Nicole Mitchell,Addiction,San Diego,No
+30,Dr. Lucas Parker,General Therapy,Portland,Yes
+31,Dr. Elizabeth Johnson,Anxiety,Miami,Yes
+32,Dr. Mark Taylor,Depression,Chicago,Yes
+33,Dr. Lauren Clark,PTSD,Seattle,No
+34,Dr. Ethan Scott,Addiction,Los Angeles,Yes
+35,Dr. Kelly Turner,General Therapy,San Francisco,No
+36,Dr. Ryan Davis,Anxiety,Austin,Yes
+37,Dr. Megan White,Depression,Atlanta,Yes
+38,Dr. Daniel Martinez,PTSD,Miami,Yes
+39,Dr. Lily Brown,Addiction,Portland,Yes
+40,Dr. Jack Wilson,General Therapy,Boston,Yes
+41,Dr. Rachel Carter,Anxiety,New York,Yes
+42,Dr. Thomas Taylor,Depression,San Diego,No
+43,Dr. Jane Harris,PTSD,Chicago,Yes
+44,Dr. Steven Lee,Addiction,Dallas,Yes
+45,Dr. Deborah Mitchell,General Therapy,Los Angeles,Yes
+46,Dr. Henry King,Anxiety,Boston,Yes
+47,Dr. Alice Scott,Depression,San Francisco,Yes
+48,Dr. Peter Young,PTSD,Miami,No
+49,Dr. Jessica Clark,Addiction,Seattle,Yes
+50,Dr. Nathan Brown,General Therapy,Portland,Yes
+51,Dr. Maria Lopez,Anxiety,Denver,Yes
+52,Dr. Kevin Mitchell,Depression,Austin,Yes
+53,Dr. Sophia Taylor,PTSD,Los Angeles,Yes
+54,Dr. Michael Scott,Addiction,Chicago,No
+55,Dr. Linda Davis,General Therapy,San Diego,Yes
+56,Dr. Oliver Turner,Anxiety,Miami,Yes
+57,Dr. Joshua Clark,Depression,Portland,Yes
+58,Dr. Natalie Adams,PTSD,Boston,Yes
+59,Dr. Timothy Young,Addiction,Seattle,Yes
+60,Dr. Caroline Harris,General Therapy,New York,Yes
