@@ -1,3 +1,4 @@
+import os
 from flask import Flask, jsonify, request
 from flask_cors import CORS  # Import CORS
 import pandas as pd
@@ -45,5 +46,6 @@ def get_recommendations():
     recommendations.sort(key=lambda x: x['rating'], reverse=True)
     return jsonify(recommendations[:5])
 
-if __name__ == '__main__':
-    app.run(debug=True)
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=int(os.environ.get('PORT', 5000)))
+
