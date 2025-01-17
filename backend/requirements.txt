@@ -9,7 +9,7 @@ argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 arrow==1.2.3
 astor==0.8.1
-astroid==2.7.5
+astroid>=2.8.0
 astropy==4.3.1
 astunparse==1.6.3
 async-timeout==4.0.3
